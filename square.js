@@ -1,3 +1,5 @@
+import { BLOCK_SIZE } from './constants.js';
+
 export class Square {
     constructor(x, y, color) {
         this.x = x;
