@@ -1,5 +1,4 @@
 import { Square } from './square.js';
-import { BLOCK_SIZE } from './constants.js';
 
 export class Tetromino {
     constructor(shape, color) {
